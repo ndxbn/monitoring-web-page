@@ -1,0 +1,240 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta http-equiv="Content-Script-Type" content="text/javascript" />
+	<meta http-equiv="Content-Style-Type" content="text/css" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Cache-Control" content="no-store, no-cache, must-revalidate, post-check=0, pre-check=0" />
+	<meta http-equiv="Expires" content="Thu, 01 Dec 1994 16:00:00 GMT" />
+	<title>名取さな🍆ば〜ちゃるな〜す(@sana_natori)のプロフィール - ツイフィール</title>
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://twpf.jp/sana_natori" />
+	<meta property="og:image" content="http://pbs.twimg.com/profile_images/1082257144492187649/rxDuGkcs_normal.jpg" />
+	<meta property="og:title" content="名取さな🍆ば〜ちゃるな〜す(@sana_natori)のプロフィール - ツイフィール" />
+	<meta property="og:site_name" content="ツイフィール" />
+	<meta property="og:description" content="名取さな🍆ば〜ちゃるな〜す(@sana_natori)さんのプロフィールです。" />
+	<meta name="description" content="名取さな🍆ば〜ちゃるな〜す(@sana_natori)さんのプロフィールです。" />
+	<link rel="alternate" media="handheld" href="http://twpf.jp/sana_natori" />
+	<link href="/favicon.ico" type="image/x-icon" rel="icon" /><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+	<link rel="stylesheet" type="text/css" href="/css/common.css?1407302277" />
+	<link rel="stylesheet" type="text/css" href="/css/style_default.css?1466770623" />
+	<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.laquu.custom.js?1407302279"></script>
+	<script type="text/javascript" src="/js/style_default.js?1407302280"></script>
+	<script type="text/javascript" src="/js/showFeed.js?1407302280"></script>
+	<style type="text/css">
+		#container a { color: #F58EA8 !important; }
+	</style>
+</head>
+<body>
+<div id="topbar">
+	<div class="wrapper cf">
+		<div id="topbar-logo"><a href="/"><img src="/img/twpf-logo-mini.png?1407302278" alt="" /></a></div>
+		<ul id="topbar-navi">
+			<li><a href="/about">サイトについて</a></li>
+			<li><a href="/search/profile">プロフィール検索</a></li>
+			<li><a href="#">遊ぶ▼</a>
+				<ul>
+					<li><a href="http://tonchi.jp/" target="_blank">大喜利する</a></li>
+					<li><a href="http://qa-note.com/" target="_blank">質問する</a></li>
+				</ul>
+			</li>
+		</ul>
+		<ul id="topbar-login-navi">
+							<li><a href="/signup">プロフィール作成</a></li>
+				<li><a href="/login">ログイン</a></li>
+					</ul>
+	</div>
+</div>
+<div id="container">
+	<div id="header">
+	<h1 id="h-profile">sana_natori's Profile</h1>
+	<div id="twitter-user" class="box">
+		<div class="pad">
+			<table id="user">
+				<tr>
+					<td id="user-icon">
+						<a href="https://twitter.com/sana_natori" title="sana_natori" target="_blank" rel="nofollow"><img src="http://pbs.twimg.com/profile_images/1082257144492187649/rxDuGkcs_reasonably_small.jpg" alt="sana_natori" /></a>					</td>
+					<td id="user-info">
+						<div class="uib-top uib-bottom clearfix">
+							<h2 id="h-screen-name" class="ui-top">ユーザー名</h2>
+							<p class="ui-top"><a href="https://twitter.com/sana_natori" target="_blank" rel="nofollow">@sana_natori</a></p>
+						</div>
+						<div class="uib-bottom clearfix">
+							<h2 id="h-name">名前</h2>
+							<p>名取さな🍆ば〜ちゃるな〜す</p>
+						</div>
+												<div class="uib-bottom clearfix">
+							<h2 id="h-location">場所</h2>
+							<p>バーチャルサナトリウム</p>
+						</div>
+																		<div class="uib-bottom clearfix">
+							<h2 id="h-web">Web</h2>
+							<p><a href="http://twpf.jp/home/jump?p=https%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCIdEIHpS0TdkqRkHL5OkLtA" title="https://www.youtube.com/channel/UCIdEIHpS0TdkqRkHL5OkLtA" target="_blank" rel="nofollow">https://www.youtube.com/channel/UCIdE...</a></p>
+						</div>
+											</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
+<div id="contents" class="clearfix">
+	<div class="tabs">
+		<ul class="tab">
+			<li><a href="#profile">プロフィール</a></li>
+			<li><a href="#data">データ</a></li>
+								</ul>
+
+		<div id="profile" class="tab-panel">
+			<div class="box">
+				<h2 id="h-description">自己紹介</h2>
+				<div class="pad">新人バーチャルYouTuberです🍆名取さな関連ツイートは <a href="https://twitter.com/search?q=%23%E5%90%8D%E5%8F%96%E3%81%95%E3%81%AA" title="#名取さな" class="tweet-url hashtag" target="_blank"rel="nofollow external">#名取さな</a> へ。ファンアートは <a href="https://twitter.com/search?q=%23%E3%83%8C%E3%82%A9%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%88" title="#ヌォンタート" class="tweet-url hashtag" target="_blank"rel="nofollow external">#ヌォンタート</a> へ。 配信実況 <a href="https://twitter.com/search?q=%23%E5%90%8D%E5%8F%96%E3%81%95%E3%81%AA%E7%94%9F%E6%94%BE%E9%80%81" title="#名取さな生放送" class="tweet-url hashtag" target="_blank"rel="nofollow external">#名取さな生放送</a> 規約や連絡先 <a href="http://twpf.jp/home/jump?p=http%253A%252F%252Ftwpf.jp%252Fsana_natori" target="_blank" rel="nofollow external">http://twpf.jp/sana_natori</a></div>
+			</div>
+
+			<div class="box">
+				<h2 id="h-motto">もっと自己紹介</h2>
+				<div class="pad">【利用規約】<br />
+<br />
+・名取さなは個人が運営しています。<br />
+<br />
+・名取さなに関する一切の権利は当方に帰属します。<br />
+・当方に帰属する素材(動画や写真、イラスト、音声等)を引用の範囲を超えて利用することを禁止します。<br />
+・同人活動の範囲を超えていると判断できる営利目的での活動や制作、頒布を禁止します。<br />
+・名取さなや名取さなが生み出したオリジナルキャラクターの同人グッズの制作を禁止します。<br />
+・名取さなのR-18G創作は禁止します。<br />
+・名取さな公式と誤解を招く行為を禁止します。また、名取さな公式から許可を得ていると誤解を招く行為も禁止します。<br />
+・その他当方が不適切と判断する行為を禁止します。<br />
+<br />
+【よくある質問】<br />
+<br />
+・R-18創作について<br />
+禁止はしていませんがゾーニングの元、18歳未満の目に触れないようご注意ください。<br />
+公式のファンアートタグである#ヌォンタートの使用はおやめください。<br />
+ツイッターへの掲載の場合「名取」や「さな」を本文に入れない、などご配慮ください。<br />
+<br />
+・コスプレについて<br />
+コスプレはOKです。<br />
+ですが、名取さなのイメージを著しく損なう衣装改変等はおやめください。<br />
+またコスプレに関してはR-18は禁止とさせていただきます。<br />
+コスプレROM、写真集等の頒布については上記に従っていただければ問題ありません。<br />
+<br />
+・グッズ<br />
+グッズは基本的に抱き枕カバー、アクキー、スリーブなどの立体のキャラクターグッズを指しています。完全に個人利用目的であれば作って頂いても大丈夫です。<br />
+また同人グッズの頒布、販売を確認した場合は販売中止請求をしています。<br />
+フィギュアなど立体造形物はこちらで内容確認が出来るＷＦのみ許可しています。<br />
+同人誌の頒布は禁止していません。<br />
+<br />
+・その他<br />
+ニコニコ大百科での記事作成はご遠慮ください。<br />
+なりきりアカウントを作らないでください。<br />
+2018/12/13～:規約についてのお問い合わせについては基本的にお答えしかねます。<br />
+★確認しないとわからないものはだめだと思ってください<br />
+・TwitterのDMについて<br />
+トラブル防止のため視聴者の方からの個人的なやり取りについては返信をいたしません。<br />
+<br />
+<br />
+・運営アカウントは以下になります。<br />
+youtube<br />
+<a href="http://twpf.jp/home/jump?p=https%253A%252F%252Fwww.youtube.com%252Fchannel%252FUCIdEIHpS0TdkqRkHL5OkLtA" target="_blank" rel="nofollow external">https://www.youtube.com/channel/UCIdEIHpS0TdkqRkHL5OkLtA</a><br />
+twitter<br />
+<a href="http://twpf.jp/home/jump?p=https%253A%252F%252Ftwitter.com%252Fsana_natori" target="_blank" rel="nofollow external">https://twitter.com/sana_natori</a><br />
+BOOTH<br />
+<a href="http://twpf.jp/home/jump?p=https%253A%252F%252Fsana-natori.booth.pm%252F" target="_blank" rel="nofollow external">https://sana-natori.booth.pm/</a><br />
+pixiv<br />
+<a href="http://twpf.jp/home/jump?p=https%253A%252F%252Fwww.pixiv.net%252Fmember.php%253Fid%253D30984332" target="_blank" rel="nofollow external">https://www.pixiv.net/member.php?id=30984332</a><br />
+<br />
+<br />
+<br />
+上記の内容は予告なく追加や修正を行う場合があります。<br />
+<br />
+【連絡先】natorisana@gmail.com<br />
+<br />
+上記連絡先はお仕事のご相談でのみお使いください。<br />
+<br />
+※ただいま継続してお受けしている企業様とのやりとりで手一杯になってしまっているため新規でグッズ化などご相談いただきましてもお受けできない可能性が高いです。すみません。</div>
+			</div>
+
+			
+			
+			
+					</div>
+
+		<div id="data" class="tab-panel">
+			<div class="box">
+				<h2 id="h-count">カウントデータ</h2>
+				<div class="pad">
+					<table id="tbl-count">
+						<tbody>
+							<tr>
+								<th>フォロー</th><td>20,676</td>
+								<th>お気に入り</th><td>18,191</td>
+							</tr>
+							<tr>
+								<th>フォロワー</th><td>121,286</td>
+								<th>リスト</th><td>3,111</td>
+							</tr>
+							<tr>
+								<th>ツイート</th><td>14,989</td>
+								<th>平均ツイート</th><td>41.8 / 日</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+			<div class="box">
+				<h2 id="h-date">日付データ</h2>
+				<div class="pad">
+					<table id="tbl-date">
+						<tbody>
+							<tr>
+								<th>Twitter歴</th><td>359日</td>
+								<th>プロフ作成日</th><td>2018/07/06 21:40</td>
+							</tr>
+							<tr>
+								<th>Twitter登録日</th><td>2018/02/28 03:01</td>
+								<th>プロフ更新日</th><td>2019/02/21 01:42</td>
+							</tr>
+							<tr>
+								<th>API取得完了</th><td>2019/02/21 19:48</td>
+								<th>API取得予定</th><td>2019/02/21 20:03</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
+			</div>
+		</div>
+
+			</div>
+
+</div>
+<div class="pr">	<!-- i-mobile for PC client script -->
+<script type="text/javascript">
+	imobile_pid = "8294";
+	imobile_asid = "22528";
+	imobile_width = 728;
+	imobile_height = 90;
+</script>
+<script type="text/javascript" src="http://spdeliver.i-mobile.co.jp/script/ads.js?20101001"></script></div>
+<div id="footer">
+	<p>&copy; 2010-2019 <a href="/">ツイフィール</a></p>
+</div></div>
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push( [ '_setAccount', 'UA-11147513-7' ]);
+	_gaq.push( [ '_trackPageview' ]);
+	(function() {
+		var ga = document.createElement('script');
+		ga.type = 'text/javascript';
+		ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl'
+				: 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(ga, s);
+	})();
+</script>
+</body>
+</html>
