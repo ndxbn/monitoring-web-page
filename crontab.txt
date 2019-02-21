@@ -1,1 +1,1 @@
-* * * * * /home/ndxbn/repos/monitoring-web-page/sana_natori_twpf.sh
+0 */2 * * * /home/ndxbn/repos/monitoring-web-page/sana_natori_twpf.sh
